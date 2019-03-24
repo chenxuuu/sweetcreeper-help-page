@@ -205,7 +205,7 @@ tt.sweetcreeper.com:31072
 |:-|:-|
 |/um|打开UI界面|
 |/um a `[价格]` `[数量]`|挂售手中的物品|
-mon
+
 ![um](/um.png)
 
 ---
