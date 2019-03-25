@@ -24,6 +24,10 @@
 
 ![支付宝](/support/alipay.jpg)
 
+### 海外捐助
+
+[前往paypal](https://www.paypal.me/chenxuuu)
+
 ---
 
 ## 捐助记录
