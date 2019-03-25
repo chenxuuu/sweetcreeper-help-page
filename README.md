@@ -177,7 +177,7 @@
 
 服务器账目 / 捐款方式：
 
-[https://www.chenxublog.com/2015/02/26/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%A6%E7%9B%AE.html](https://www.chenxublog.com/2015/02/26/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%A6%E7%9B%AE.html)
+[https://wiki.sweetcreeper.com/support/](https://wiki.sweetcreeper.com/support/)
 
 服务器宣传网站：
 
