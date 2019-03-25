@@ -1,6 +1,6 @@
 # 糖拌苦力怕入服攻略
 
-> 本页托关于GitHub，如有发现错误或需要补充，请提交issue或直接pr。
+> 本页托管于GitHub，如有发现错误或需要补充，请提交issue或直接pr。
 > [https://github.com/chenxuuu/sweetcreeper-help-page.git](https://github.com/chenxuuu/sweetcreeper-help-page.git)
 
 ## 此文章将全面讲解糖拌苦力怕的各种注意事项及服务器中的游戏设定，建议存为书签
@@ -121,7 +121,7 @@
 
 3. 屠杀他人农村动物的
 
-4. 利用宠物进行上述行为的
+4. ~~利用宠物进行上述行为的~~
 
 5. 破坏主城及展览馆壁画的
 
