@@ -1,6 +1,7 @@
 # 糖拌苦力怕入服攻略
 
-> 糖拌苦力怕小百科
+> 本页托关于GitHub，如有发现错误或需要补充，请提交issue或直接pr。
+> [https://github.com/chenxuuu/sweetcreeper-help-page.git](https://github.com/chenxuuu/sweetcreeper-help-page.git)
 
 ## 此文章将全面讲解糖拌苦力怕的各种注意事项及服务器中的游戏设定，建议存为书签
 
@@ -22,11 +23,23 @@
 
 客户端请使用官方的客户端版本，已整合高清修复与光影引擎、自带数个光影模型、自带动态环绕mod、物品管理JEI、小地图
 
+已有mod：
+
+- 拔刀剑
+- 拔刀剑附加
+- 匠魂
+- 匠魂附加
+- 匠魂拔刀剑联动~~肝疼~~
+- 神秘时代6~~肝疼~~
+- 植物魔法~~肝疼~~
+- 料理工艺~~使劲种田做菜~~
+- 更好的动物~~动物过的比人好~~
+
 不限速直链下载：
 
-[点我下载客户端，1.12.2；mod为拔刀剑、匠魂、暮色森林、植物魔法、料理工艺、更好的动物](https://1dv.papapoi.com/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95-mod%E5%BD%92%E6%9D%A5v10.1%E6%AD%A3%E5%BC%8F%E7%89%88%281.12.2%29.7z)
+[点我下载客户端，1.12.2](https://1dv.papapoi.com/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95-mod%E5%BD%92%E6%9D%A5v10.1%E6%AD%A3%E5%BC%8F%E7%89%88%281.12.2%29.7z)
 
-推荐使用多线程下载工具下载该文件
+推荐使用多线程下载工具下载该文件（fdm/eagleget/idm/迅雷）
 
 > 如果打开提示“未能下载游戏依赖”，那么请单独下载libraries文件夹的内容，解压放到.minecraft文件夹中：
 [下载libraries文件夹的内容](https://1dv.papapoi.com/%E8%BD%AF%E4%BB%B6/%E5%88%86%E4%BA%AB%E7%94%A8/libraries.7z)
@@ -65,18 +78,24 @@
 
 ## 服务器地址
 
-```log
 自动选择线路：
-mc.sweetcreeper.com
+
+- mc.sweetcreeper.com
+
 电信：
-dxmc.sweetcreeper.com
-dx.sweetcreeper.com:31072
+
+- dxmc.sweetcreeper.com
+- dx.sweetcreeper.com:31072
+
 联通/网通：
-wtmc.sweetcreeper.com
-wt.sweetcreeper.com:31072
+
+- wtmc.sweetcreeper.com
+- wt.sweetcreeper.com:31072
+
 铁通/移动/教育网：
-tt.sweetcreeper.com:31072
-```
+
+- tt.sweetcreeper.com:31072
+
 
 ---
 
@@ -194,19 +213,6 @@ tt.sweetcreeper.com:31072
 |/spawn|回到重生点|
 |/warp `<地名>`|到指定传送点|
 |/warp list|查看所有公共传送点|
-
----
-
-## 全服通用市场
-
-> 注意，买卖需要缴纳2%的税款
-
-|指令|解释|
-|:-|:-|
-|/um|打开UI界面|
-|/um a `[价格]` `[数量]`|挂售手中的物品|
-
-![um](/um.png)
 
 ---
 
