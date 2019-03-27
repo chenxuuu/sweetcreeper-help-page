@@ -25,15 +25,16 @@
 
 已有mod：
 
-- 拔刀剑
-- 拔刀剑附加
-- 匠魂
-- 匠魂附加
-- 匠魂拔刀剑联动~~肝疼~~
-- 神秘时代6~~肝疼~~
-- 植物魔法~~肝疼~~
-- 料理工艺~~使劲种田做菜~~
-- 更好的动物~~动物过的比人好~~
+- [拔刀剑](http://www.mcbbs.net/thread-726664-1-1.html)
+- [拔刀剑附加](http://www.mcbbs.net/thread-710736-1-1.html)
+- [匠魂](http://www.mcbbs.net/thread-661201-1-1.html)
+- [匠魂附加](http://www.mcbbs.net/thread-731337-1-18.html)
+- [匠魂拔刀剑联动](http://www.mcbbs.net/thread-846907-1-1.html)~~肝疼~~
+- [神秘时代6](http://www.mcbbs.net/thread-776706-1-1.html)~~肝疼~~
+- [植物魔法](http://www.mcbbs.net/thread-722470-1-1.html)
+- [额外植物学](http://www.mcbbs.net/thread-596279-1-1.html)~~肝疼~~
+- [料理工艺](http://www.mcbbs.net/thread-821999-1-1.html)~~使劲种田做菜~~
+- [更好的动物](http://www.mcbbs.net/thread-817915-1-9.html)~~动物过的比人好~~
 
 不限速直链下载：
 
@@ -50,7 +51,7 @@
 
 > 更改此设置可以减少将近45%的内存占用
 
-仅对于64位的windows用户（我相信32位电脑优化了也照样卡），第一次游戏时需要检查一项设置，以便流畅游戏
+仅对于64位的windows用户，第一次游戏时需要检查一项设置，以便流畅游戏
 
 打开启动器HMCL-3.2.112
 
