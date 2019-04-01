@@ -42,9 +42,6 @@
 
 推荐使用多线程下载工具下载该文件（fdm/eagleget/idm/迅雷）
 
-> 如果打开提示“未能下载游戏依赖”，那么请单独下载libraries文件夹的内容，解压放到.minecraft文件夹中：
-[下载libraries文件夹的内容](https://1dv.papapoi.com/%E8%BD%AF%E4%BB%B6/%E5%88%86%E4%BA%AB%E7%94%A8/libraries.7z)
-
 ---
 
 ### 客户端运行优化建议
