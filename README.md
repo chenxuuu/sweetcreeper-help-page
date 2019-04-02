@@ -44,6 +44,12 @@
 
 ---
 
+### java下载链接
+
+[https://www.java.com/zh_CN/download/](https://www.java.com/zh_CN/download/)
+
+---
+
 ### 客户端运行优化建议
 
 > 更改此设置可以减少将近45%的内存占用
@@ -68,9 +74,15 @@
 
 ---
 
-## java下载链接
+### 自动整理mod的推荐设置
 
-[https://www.java.com/zh_CN/download/](https://www.java.com/zh_CN/download/)
+经玩家反馈，该mod可通过bug卡掉玩家的珍贵物品，请按以下操作设置关闭改bug功能：
+
+![1.jpg](/1.jpg)
+
+![2.jpg](/2.jpg)
+
+![3.jpg](/3.jpg)
 
 ---
 
