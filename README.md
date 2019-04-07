@@ -35,6 +35,8 @@
 - [额外植物学](http://www.mcbbs.net/thread-596279-1-1.html)~~肝疼~~
 - [料理工艺](http://www.mcbbs.net/thread-821999-1-1.html)~~使劲种田做菜~~
 - [更好的动物](http://www.mcbbs.net/thread-817915-1-9.html)~~动物过的比人好~~
+- [盖亚魔典](http://www.mcbbs.net/thread-679274-1-1.html)
+- [家具](http://www.mcbbs.net/thread-321693-1-1.html)
 
 不限速直链下载：
 
