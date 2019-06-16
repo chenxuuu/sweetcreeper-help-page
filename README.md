@@ -37,6 +37,7 @@
 - [更好的动物](http://www.mcbbs.net/thread-817915-1-9.html)~~动物过的比人好~~
 - [盖亚魔典](http://www.mcbbs.net/thread-679274-1-1.html)
 - [家具](http://www.mcbbs.net/thread-321693-1-1.html)
+- [电脑](http://computercraft.info/wiki/)
 
 不限速直链下载：
 
