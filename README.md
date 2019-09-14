@@ -39,11 +39,9 @@
 - [家具](http://www.mcbbs.net/thread-321693-1-1.html)
 - [电脑](http://computercraft.info/wiki/)
 
-不限速直链下载：
+不限速下载：
 
-[点我下载客户端，1.12.2](https://1dv.papapoi.com/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95-mod%E5%BD%92%E6%9D%A5v10.1%E6%AD%A3%E5%BC%8F%E7%89%88%281.12.2%29.7z)
-
-推荐使用多线程下载工具下载该文件（fdm/eagleget/idm/迅雷）
+[点我下载1.12.2客户端高速下载器（aria2一键脚本）](/客户端高速下载器（aria2一键脚本）.7z)
 
 海外用户可从OneDrive下载：
 
