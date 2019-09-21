@@ -21,7 +21,11 @@
 
 * [服务器常用地标](qi-ta-xu-yao-le-jie-de/fu-wu-qi-chang-yong-di-biao.md)
 * [宣传网址](qi-ta-xu-yao-le-jie-de/xuan-chuan-juan-kuan.md)
-* [服务器账目与捐助方式](qi-ta-xu-yao-le-jie-de/support.md)
+
+## 服务器账目与捐助 <a id="support"></a>
+
+* [服务器账目](support/support.md)
+* [捐助方式](support/juan-zhu-fang-shi.md)
 
 ## 常用命令小合集 <a id="ming-ling-xiao-he-ji"></a>
 

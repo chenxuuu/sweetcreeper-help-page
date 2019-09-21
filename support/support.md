@@ -2,7 +2,7 @@
 description: '旧的捐款页面（2018年以前）请见：https://www.chenxublog.com/old-support'
 ---
 
-# 服务器账目与捐助方式
+# 服务器账目
 
 ### 捐助须知
 
@@ -49,18 +49,4 @@ description: '旧的捐款页面（2018年以前）请见：https://www.chenxubl
 | 2019-09-03 | Aulia | 10元 | 失去时间观念的Aulia |
 | 2019-09-09 | Aulia | 10元 | Aulia又给你打了钱 |
 | 2019-09-15 | Aulia | 10元 | 吃月饼的Aulia |
-
-### 捐助方式
-
-#### 微信捐助
-
-![](../.gitbook/assets/wechat.png)
-
-#### 支付宝捐助
-
-![](../.gitbook/assets/alipay.jpg)
-
-#### 海外捐助
-
-[前往paypal](https://www.paypal.me/chenxuuu)
 
