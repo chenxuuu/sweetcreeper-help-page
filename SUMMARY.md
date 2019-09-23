@@ -4,11 +4,11 @@
 
 ## 糖拌苦力怕入服攻略
 
-* [入服前](tang-ban-ku-li-pa-ru-fu-gong-lve/untitled.md)
+* [入服前](tang-ban-ku-li-pa-ru-fu-gong-lve/ru-fu-qian.md)
 * [客户端下载](tang-ban-ku-li-pa-ru-fu-gong-lve/ke-hu-duan-lei-wen-ti.md)
 * [java下载链接](tang-ban-ku-li-pa-ru-fu-gong-lve/java-xia-zai-lian-jie.md)
 * [客户端运行优化建议](tang-ban-ku-li-pa-ru-fu-gong-lve/ke-hu-duan-yun-hang-you-hua-jian-yi.md)
-* [比模自动整理mod bug的设置](tang-ban-ku-li-pa-ru-fu-gong-lve/bi-mo-zi-dong-zheng-li-mod-bug-de-she-zhi.md)
+* [避免自动整理mod bug的设置](tang-ban-ku-li-pa-ru-fu-gong-lve/bi-mian-zi-dong-zheng-li-mod-bug-de-she-zhi.md)
 * [服务器连接地址](tang-ban-ku-li-pa-ru-fu-gong-lve/fu-wu-qi-lian-jie-di-zhi.md)
 
 ## 服务器需要遵守的条例
