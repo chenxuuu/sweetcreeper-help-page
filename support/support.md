@@ -56,3 +56,6 @@ description: '旧的捐款页面（2018年以前）请见：https://www.chenxubl
 | 2019-10-02 | milk | 10元 | 意识到自己划水的milk |
 | 2019-10-06 | Aulia | 10元 | 刚刚想起打钱的Aulia |
 | 2019-10-13 | Aulia | 10元 | 咕咕咕咕咕-Aulia |
+| 2019-10-22 | Aulia | 10元 | 周末忘记打钱了-Aulia |
+| 2019-10-27 | Aulia | 10元 | 未留言 |
+| 2019-11-03 | Aulia | 10元 | 还是那个Aulia |
