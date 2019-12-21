@@ -6,11 +6,7 @@ description: 客户端请使用糖拌整合的客户端版本，已整合高清�
 
 不限速下载（群共享也能下）：
 
-[点我下载1.12.2客户端高速下载器（aria2一键脚本）](https://1dv.papapoi.com/%E8%BD%AF%E4%BB%B6/%E5%88%86%E4%BA%AB%E7%94%A8/%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD%E5%99%A8.7z)
-
-海外用户可从OneDrive下载：
-
-[点我从OneDrive下载客户端，1.12.2](https://1drv.ms/u/s!Asz6jM0Kmex1pdlFlG0QiFkYh5XhbA)
+[糖拌苦力怕-mod归来v10.2正式版(1.12.2)](https://1dv.papapoi.com/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95-mod%E5%BD%92%E6%9D%A5v10.2%E6%AD%A3%E5%BC%8F%E7%89%88%281.12.2%29.7z)
 
 已有mod：
 
