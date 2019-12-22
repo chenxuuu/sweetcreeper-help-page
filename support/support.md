@@ -59,3 +59,11 @@ description: '旧的捐款页面（2018年以前）请见：https://www.chenxubl
 | 2019-10-22 | Aulia | 10元 | 周末忘记打钱了-Aulia |
 | 2019-10-27 | Aulia | 10元 | 未留言 |
 | 2019-11-03 | Aulia | 10元 | 还是那个Aulia |
+| 2019-11-10 | Aulia | 10元 | 上周忘记打钱的Aulia |
+| 2019-11-17 | Aulia | 10元 | ruaruarua-Aulia |
+| 2019-11-25 | Aulia | 10元 | 咕咕咕咕--Aulia |
+| 2019-12-02 | Aulia | 10元 | 上周没打钱的Aulia |
+| 2019-12-08 | Aulia | 10元 | 白金之星Aulia |
+| 2019-12-15 | Aulia | 10元 | 咕咕-Aulia |
+| 2019-12-22 | Aulia | 10元 | 咕咕-鸽利亚 |
+| 总计 |  | 588.97元 |  |

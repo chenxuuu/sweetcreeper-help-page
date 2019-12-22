@@ -2,6 +2,8 @@
 
 ### 捐助方式
 
+> 注意！！转账后请**务必**联系晨旭，不然，你的记录可能会被遗漏掉
+
 #### 微信捐助
 
 ![](../.gitbook/assets/wechat.png)
@@ -14,3 +16,6 @@
 
 [前往paypal](https://www.paypal.me/chenxuuu)
 
+### 比特币
+
+`13ZWGKddKSXuH3tyHHDBHKcvf2Sq9x5zGM`
