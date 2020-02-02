@@ -4,8 +4,6 @@ description: 服务器为电信、联通、移动三线服务器
 
 # 服务器连接地址
 
-
-
 自动选择线路：
 
 * mc.sweetcreeper.com
@@ -24,3 +22,4 @@ description: 服务器为电信、联通、移动三线服务器
 
 * tt.sweetcreeper.com:31072
 
+特别感谢[东方云提供~~白嫖~~的高性能服务器](https://item.taobao.com/item.htm?id=580787684298)

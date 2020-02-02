@@ -16,6 +16,3 @@
 
 [前往paypal](https://www.paypal.me/chenxuuu)
 
-### 比特币
-
-`13ZWGKddKSXuH3tyHHDBHKcvf2Sq9x5zGM`
