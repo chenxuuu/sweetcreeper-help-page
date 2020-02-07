@@ -4,9 +4,14 @@ description: 不定时更新
 
 # 服务器常用地标
 
-* 主城`/spawn`或`/warp zhucheng`
-* 创造界`/warp create`
-* 旧世界（仅限参观）
+| 地点名 | 前往指令 |
+| :--- | :--- |
+| 主城| `/spawn`或`/warp zhucheng`|
+| 官方商店 | `/warp shop`|
+| 物品发放 | `/warp t`|
+| 创造界 | `/warp create`|
+
+## 旧世界（仅限参观）
 
 | 地图名 | 前往指令 | 备份时间 |
 | :--- | :--- | :--- |

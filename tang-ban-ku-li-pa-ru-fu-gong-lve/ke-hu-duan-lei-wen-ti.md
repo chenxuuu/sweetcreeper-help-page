@@ -6,11 +6,11 @@ description: 客户端请使用糖拌整合的客户端版本，已整合高清�
 
 蓝奏云（不限速）：
 
-[糖拌苦力怕-mod归来v10.2正式版(1.12.2)](https://www.lanzous.com/b00t8mlne)
+[糖拌苦力怕-mod自动更新客户端(1.12.2)](https://www.lanzous.com/b00t8mlne)
 
 OneDrive转直链下载（推荐海外）：
 
-[糖拌苦力怕-mod归来v10.2正式版(1.12.2)](https://1dv.papapoi.com/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95-mod%E5%BD%92%E6%9D%A5v10.2%E6%AD%A3%E5%BC%8F%E7%89%88%281.12.2%29.7z)
+[糖拌苦力怕-mod自动更新客户端(1.12.2)](https://1dv.papapoi.com/%E7%B3%96%E6%8B%8C%E8%8B%A6%E5%8A%9B%E6%80%95-mod%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%AE%A2%E6%88%B7%E7%AB%AF%281.12.2%29.7z)
 
 ## 注意
 
@@ -18,8 +18,9 @@ OneDrive转直链下载（推荐海外）：
 
 如果中途某天游玩没法进服务器，也说明需要更新mod了，运行一次即可
 
-已有mod：
+## 已有mod
 
+* [夸克](https://cfpaorg.github.io/QuarkWiki/)
 * [拔刀剑](http://www.mcbbs.net/thread-726664-1-1.html)
 * [拔刀剑附加](http://www.mcbbs.net/thread-710736-1-1.html)
 * [匠魂](http://www.mcbbs.net/thread-661201-1-1.html)
