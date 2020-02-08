@@ -1,8 +1,6 @@
----
-description: 经玩家反馈，该mod可通过bug卡掉玩家的珍贵物品，请按以下操作设置关闭改bug功能
----
-
 # 避免自动整理mod bug的设置
+
+> 经玩家反馈，该mod可通过bug卡掉玩家的珍贵物品，请按以下操作设置关闭改bug功能
 
 ![&#x6253;&#x5F00;mod&#x8BBE;&#x7F6E;](../.gitbook/assets/1.jpg)
 

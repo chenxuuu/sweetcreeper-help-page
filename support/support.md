@@ -1,10 +1,7 @@
----
-description: '旧的捐款页面（2018年以前）请见：https://www.chenxublog.com/old-support'
----
-
 # 服务器账目
 
-> 捐助方式请点击左侧的`捐助方式`查看
+> 旧的捐款页面（2018年以前）请见：https://www.chenxublog.com/old-support
+捐助方式请点击左侧的`捐助方式`查看
 
 ### 捐助须知
 
@@ -72,4 +69,3 @@ description: '旧的捐款页面（2018年以前）请见：https://www.chenxubl
 | 2020-01-23 | 不愿透露姓名的fa_qwqy | 2.33元 | 打断奥利亚的复读 |
 | 2020-02-03 | 花费 | $15（104.95元） | 购买领地插件[GriefDefender](https://www.spigotmc.org/resources/griefdefender.68900/) |
 | 2020-02-07 | xex | 42元 |  |
-
