@@ -16,5 +16,5 @@
 
 如果设置不为自定义，请按上面那一行改一下设置
 
-![](../.gitbook/assets/qi-dong-jie-mian.jpg)
+![](../assets/qi-dong-jie-mian.jpg)
 

@@ -6,11 +6,11 @@
 
 #### 微信捐助
 
-![](../.gitbook/assets/wechat.png)
+![](../assets/wechat.png)
 
 #### 支付宝捐助
 
-![](../.gitbook/assets/alipay.jpg)
+![](../assets/alipay.jpg)
 
 #### 海外捐助
 
