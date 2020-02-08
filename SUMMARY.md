@@ -24,8 +24,8 @@
 
 ## 服务器账目与捐助 <a id="support"></a>
 
+* [捐助方式](support/index.md)
 * [服务器账目](support/support.md)
-* [捐助方式](support/juan-zhu-fang-shi.md)
 
 ## 常用命令小合集 <a id="ming-ling-xiao-he-ji"></a>
 

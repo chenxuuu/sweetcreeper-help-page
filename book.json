@@ -1,0 +1,41 @@
+{
+    "output": "docs",
+    "generator": "site",
+    "title": "糖拌苦力怕小百科",
+    "description": "全面讲解糖拌苦力怕的各种注意事项及服务器中的游戏设定",
+    "plugins": [
+        "github",
+        "prism",
+        "-highlight",
+        "splitter",
+        "sitemap",
+        "-sharing"
+    ],
+
+    "links": {
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
+
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/chenxuuu/sweetcreeper-help-page"
+        },
+        "sitemap": {
+            "hostname": "https://wiki.sweetcreeper.com/"
+        },
+        "sharing": {
+            "weibo": false,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "instapaper": false,
+            "vk": false
+        }
+    }
+}
