@@ -69,3 +69,5 @@
 | 2020-01-23 | 不愿透露姓名的fa_qwqy | 2.33元 | 打断奥利亚的复读 |
 | 2020-02-03 | 花费 | $15（104.95元） | 购买领地插件[GriefDefender](https://www.spigotmc.org/resources/griefdefender.68900/) |
 | 2020-02-07 | xex | 42元 |  |
+| 2020-02-14 | Aulia | 80元 | 鸽了，节日快乐-Aulia |
+| 2020-01-19 | Aulia | 21.5元 | 我是黎仔！ |
