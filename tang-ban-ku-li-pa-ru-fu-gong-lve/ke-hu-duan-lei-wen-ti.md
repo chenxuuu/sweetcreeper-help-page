@@ -4,9 +4,9 @@
 
 蓝奏云（不限速）：
 
-[糖拌苦力怕-mod自动更新客户端(1.12.2)](https://www.lanzous.com/b00t8mlne)
-[备用1](https://chenxuuu.lanzous.com/b00t8mlne)
-[备用2](https://pan.lanzous.com/b00t8mlne)
+[糖拌苦力怕-mod自动更新客户端(1.12.2)](https://www.lanzoux.com/b00t8mlne)
+[备用1](https://lanzoux.com/b00t8mlne)
+[备用2](https://chenxuuu.lanzoux.com/b00t8mlne)
 
 OneDrive转直链下载（推荐海外）：
 
