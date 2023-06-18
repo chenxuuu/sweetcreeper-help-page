@@ -9,15 +9,13 @@
 电信：
 
 * dxmc.sweetcreeper.com
-* dx.sweetcreeper.com:31072
+* dx.sweetcreeper.com:16371
 
 联通/网通：
 
 * wtmc.sweetcreeper.com
-* wt.sweetcreeper.com:31072
+* wt.sweetcreeper.com:16371
 
 铁通/移动/教育网：
 
-* tt.sweetcreeper.com:31072
-
-特别感谢[东方云提供~~白嫖~~的高性能服务器](https://item.taobao.com/item.htm?id=580787684298)
+* tt.sweetcreeper.com:16371
