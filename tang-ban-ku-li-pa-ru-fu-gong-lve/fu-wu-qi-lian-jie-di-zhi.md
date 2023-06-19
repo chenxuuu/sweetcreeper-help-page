@@ -9,13 +9,13 @@
 电信：
 
 * dxmc.sweetcreeper.com
-* dx.sweetcreeper.com:16371
+* dx.sweetcreeper.com:27432
 
 联通/网通：
 
 * wtmc.sweetcreeper.com
-* wt.sweetcreeper.com:16371
+* wt.sweetcreeper.com:27432
 
 铁通/移动/教育网：
 
-* tt.sweetcreeper.com:16371
+* tt.sweetcreeper.com:27432
